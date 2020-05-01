@@ -1,0 +1,3 @@
+/home/abel/gl_tut/build/CMakeFiles/edit_cache.dir
+/home/abel/gl_tut/build/CMakeFiles/rebuild_cache.dir
+/home/abel/gl_tut/build/CMakeFiles/sample_pan.dir

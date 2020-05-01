@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/sample_pan.dir/sample_pan.cpp.o  -o sample_pan -rdynamic -lglfw3 -lGL -lX11 -lpthread -lXrandr -lXi -ldl /usr/local/lib/libpangolin.so -lGLU -lGL /usr/local/lib/libglew.a -lSM -lICE -lX11 -lXext -lrt -lpthread /usr/local/lib/libpng.a -lz -Wl,-rpath,/usr/local/lib 

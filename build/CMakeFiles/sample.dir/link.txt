@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/sample.dir/sample.cpp.o  -o sample -rdynamic -lglfw3 -lGL -lX11 -lpthread -lXrandr -lXi -ldl libglad.a 
